@@ -1,6 +1,6 @@
 # iimmsci2s
 
-<img src="docs/fig-2s-trees.png" width="300">
+<img src="docs/fig-2s-trees.png" width="600">
 
 A C program to calculate asymptotic maximum likelihood estimates (or pseudo-true parameter values) of parameters under the MSCI (multispecies coalescent [MSC] with introgression) model (a) of two species given that the true model is MSCM (MSC with migration; b-d), or vice versa, by minimizing the KL divergence.  Assume one sequence per species, an infinite number of loci, and a Poisson model of mutations.  Sequence length can be finite (n) or infinite.
 
