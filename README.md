@@ -6,7 +6,7 @@ A C program to calculate asymptotic maximum likelihood estimates (or pseudo-true
 
 Adapted from a program IMMSci2s written by [Ziheng Yang](http://abacus.gene.ucl.ac.uk/) for [Jiao et al, 2020](https://doi.org/10.1093/sysbio/syaa001), using routines from PAML (`paml.h` and `tools.c`; [Yang, 2007](https://doi.org/10.1093/molbev/msm088)).
 
-This program was used in [Huang et al. (2022)](https://doi.org/10.1093/molbev/msac237) and Thawornwattana et al (2024).
+This program was used in [Huang et al. (2022)](https://doi.org/10.1093/molbev/msac237) and [Thawornwattana et al (2024)](https://doi.org/10.1101/2024.05.13.593926).
 
 References:
 
